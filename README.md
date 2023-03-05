@@ -5,6 +5,8 @@ Every day for a hundred days, I posted simple JavaScript projects to my social m
 
 If you have any questions, ask me on my **[social media](https://www.linkedin.com/in/vidushika-dasanayaka/)**
 
+See my first  [tweet](https://twitter.com/vidushika_d/status/1632489880537137159?s=20)
+
 Table of Content
 
 **[Day 1 - ToDo List](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day001-ToDo%20List)**
