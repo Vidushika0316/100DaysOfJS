@@ -15,4 +15,7 @@ Table of Content
 **[Day 2 - Random Backgrouncolor onclick](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day002-Random%20Backgroundcolor%20onclick)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day002-Random%20Backgroundcolor%20onclick/Random%20backgroundcolor%20onclick.gif)
 
+**[Day 3 - RGB Color Slider](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day003-RGB%20Color%20Slider)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day003-RGB%20Color%20Slider/RGB%20Color%20Slider.gif)
+
 
