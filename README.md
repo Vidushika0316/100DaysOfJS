@@ -18,4 +18,7 @@ Table of Content
 **[Day 3 - RGB Color Slider](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day003-RGB%20Color%20Slider)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day003-RGB%20Color%20Slider/RGB%20Color%20Slider.gif)
 
+**[Day 4 - Stopwatch](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day004-Stopwatch)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day004-Stopwatch/stopwatch.gif)
+
 
