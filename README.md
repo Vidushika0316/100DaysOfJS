@@ -21,4 +21,8 @@ Table of Content
 **[Day 4 - Stopwatch](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day004-Stopwatch)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day004-Stopwatch/stopwatch.gif)
 
+**[Day 5 - Random Password Generator](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day005-Random%20Password%20Generator)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day005-Random%20Password%20Generator/Random%20Password%20Generator.gif)
+
+
 
