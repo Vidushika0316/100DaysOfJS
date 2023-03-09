@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Random Password Generator</title>
+    <!--Fontawesome Icons-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+    />
+    <!--Google Font-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <!--Stylesheet-->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <input type="text" id="output" />
+      <button>
+        <i class="fas fa-random" onclick="genPassword()"></i>
+      </button>
+      <button>
+        <i class="far fa-copy" onclick="copyClipboard()"></i>
+      </button>
+      <input
+        type="range"
+        id="length"
+        min="8"
+        max="20"
+        value="8"
+        oninput="genPassword()"
+      />
+      <h3 id="length-val">8</h3>
+    </div>
+
+    <!--Script-->
+    <script src="script.js"></script>
+  </body>
+</html>
