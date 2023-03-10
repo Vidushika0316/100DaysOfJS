@@ -24,5 +24,8 @@ Table of Content
 **[Day 5 - Random Password Generator](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day005-Random%20Password%20Generator)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day005-Random%20Password%20Generator/Random%20Password%20Generator.gif)
 
+**[Day 6 - Live Characater Counter](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day006-Live%20Character%20Counter)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day006-Live%20Character%20Counter/Live%20Character%20Counter.gif)
+
 
 
