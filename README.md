@@ -27,5 +27,7 @@ Table of Content
 **[Day 6 - Live Characater Counter](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day006-Live%20Character%20Counter)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day006-Live%20Character%20Counter/Live%20Character%20Counter.gif)
 
+**[Day 7 - Roll the Dice](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day007%20-Roll%20the%20Dice)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day007%20-Roll%20the%20Dice/Roll%20the%20Dice%20.gif)
 
 
