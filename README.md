@@ -33,4 +33,5 @@ Table of Content
 **[Day 8 - Number Guessing Game](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day008-Number%20Guessing%20Game)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day008-Number%20Guessing%20Game/Number%20Guessing%20Game.gif)
 
-
+**[Day 9 - Palindrome Checker](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day009-Palindrome%20Checker)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day009-Palindrome%20Checker/Palindrome%20Checker.gif)
