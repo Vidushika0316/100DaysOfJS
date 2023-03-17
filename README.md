@@ -36,5 +36,5 @@ Table of Content
 **[Day 9 - Palindrome Checker](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day009-Palindrome%20Checker)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day009-Palindrome%20Checker/Palindrome%20Checker.gif)
 
-**[Day 10 - PBMI Calculator](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day010-BMI%20Calculator)**
+**[Day 10 - BMI Calculator](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day010-BMI%20Calculator)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day010-BMI%20Calculator/BMI%20Calculator.gif)
