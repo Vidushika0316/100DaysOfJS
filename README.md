@@ -38,3 +38,6 @@ Table of Content
 
 **[Day 10 - BMI Calculator](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day010-BMI%20Calculator)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day010-BMI%20Calculator/BMI%20Calculator.gif)
+
+**[Day 11 - Profile Card UI With Dynamic Theme Colors](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day011-Profile%20Card%20UI%20With%20Dynamic%20Theme%20Colors)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day011-Profile%20Card%20UI%20With%20Dynamic%20Theme%20Colors/Profile%20Card%20UI%20With%20Dynamic%20Theme%20Colors.gif)
