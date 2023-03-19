@@ -41,3 +41,6 @@ Table of Content
 
 **[Day 11 - Profile Card UI With Dynamic Theme Colors](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day011-Profile%20Card%20UI%20With%20Dynamic%20Theme%20Colors)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day011-Profile%20Card%20UI%20With%20Dynamic%20Theme%20Colors/Profile%20Card%20UI%20With%20Dynamic%20Theme%20Colors.gif)
+
+**[Day 12 - Hightlight Searched Text](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day012-HightLight%20Searched%20Text)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day012-HightLight%20Searched%20Text/Highlight%20Searched%20Text.gif)
