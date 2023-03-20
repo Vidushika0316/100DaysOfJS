@@ -44,3 +44,6 @@ Table of Content
 
 **[Day 12 - Hightlight Searched Text](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day012-HightLight%20Searched%20Text)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day012-HightLight%20Searched%20Text/Highlight%20Searched%20Text.gif)
+
+**[Day 13 - RGB to Hex](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day013-RGB%20to%20Hex)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day013-RGB%20to%20Hex/RGB%20to%20Hex.gif)
