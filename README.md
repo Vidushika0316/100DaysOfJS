@@ -47,3 +47,6 @@ Table of Content
 
 **[Day 13 - RGB to Hex](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day013-RGB%20to%20Hex)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day013-RGB%20to%20Hex/RGB%20to%20Hex.gif)
+
+**[Day 14 - Temperature Conversion](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day014-%20Temperature%20Conversion)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day014-%20Temperature%20Conversion/Temperature%20conversion.gif)
