@@ -56,3 +56,6 @@ Table of Content
 
 **[Day 16 - Dictionary App ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day016-Dictionary%20App)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day016-Dictionary%20App/Dictionary%20App.gif)
+
+**[Day 17 - Responsive Image Slider ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day017-Responsive%20Image%20Slider)**
+![](https://github.com/Vidushika0316/100DaysOfJS/commit/5ee7370da2cd7b275d2c9275c62ad69384001b2b)
