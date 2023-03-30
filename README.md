@@ -63,3 +63,6 @@ Table of Content
 
 **[Day 18 - Age Caluclator ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day018-Age%20Calculator)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day018-Age%20Calculator/Age%20Calculator.gif)
+
+**[Day 19 - Rock Paper Scissor Game ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day019-Rock%20Paper%20Scissor%20Game)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day019-Rock%20Paper%20Scissor%20Game/Rock%20Paper%20Scissor%20Game.gif)
