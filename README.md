@@ -66,3 +66,6 @@ Table of Content
 
 **[Day 19 - Rock Paper Scissor Game ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day019-Rock%20Paper%20Scissor%20Game)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day019-Rock%20Paper%20Scissor%20Game/Rock%20Paper%20Scissor%20Game.gif)
+
+**[Day 20 - Tip Calculator ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day020-Tip%20Calculator)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day020-Tip%20Calculator/Tip%20Calculator.gif)
