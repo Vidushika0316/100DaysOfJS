@@ -69,3 +69,6 @@ Table of Content
 
 **[Day 20 - Tip Calculator ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day020-Tip%20Calculator)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day020-Tip%20Calculator/Tip%20Calculator.gif)
+
+**[Day 21 - Blob Maker ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day021-Blob%20Maker)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day021-Blob%20Maker/Blob%20Maker.gif)
