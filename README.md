@@ -72,3 +72,6 @@ Table of Content
 
 **[Day 21 - Blob Maker ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day021-Blob%20Maker)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day021-Blob%20Maker/Blob%20Maker.gif)
+
+**[Day 22 - Flip a Coin ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day022-Flip%20a%20Coin)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day022-Flip%20a%20Coin/Flip%20a%20coin.gif)
