@@ -75,3 +75,6 @@ Table of Content
 
 **[Day 22 - Flip a Coin ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day022-Flip%20a%20Coin)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day022-Flip%20a%20Coin/Flip%20a%20coin.gif)
+
+**[Day 23 - Gradient Generator ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day023-Gradient%20Generator)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day023-Gradient%20Generator/gradient%20generator.gif)
