@@ -78,3 +78,7 @@ Table of Content
 
 **[Day 23 - Gradient Generator ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day023-Gradient%20Generator)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day023-Gradient%20Generator/gradient%20generator.gif)
+
+**[Day 24 - FAQ Accordion ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day024-FAQ%20Accordion)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day024-FAQ%20Accordion/FAQ%20Accordion.gif)
+
