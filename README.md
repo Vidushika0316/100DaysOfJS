@@ -82,3 +82,6 @@ Table of Content
 **[Day 24 - FAQ Accordion ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day024-FAQ%20Accordion)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day024-FAQ%20Accordion/FAQ%20Accordion.gif)
 
+**[Day 25 - Password Strength Checker ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day025-Password%20Strength%20Checker)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day025-Password%20Strength%20Checker/password%20strength%20checker.gif)
+
