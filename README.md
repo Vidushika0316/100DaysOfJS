@@ -85,3 +85,6 @@ Table of Content
 **[Day 25 - Password Strength Checker ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day025-Password%20Strength%20Checker)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day025-Password%20Strength%20Checker/password%20strength%20checker.gif)
 
+**[Day 26 - Random Joke Generator ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day026-Random%20Joke%20Generator)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day026-Random%20Joke%20Generator/Random%20Password%20Generator.gif)
+
