@@ -88,3 +88,6 @@ Table of Content
 **[Day 26 - Random Joke Generator ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day026-Random%20Joke%20Generator)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day026-Random%20Joke%20Generator/Random%20Password%20Generator.gif)
 
+**[Day 27 - Basic Image Editor ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day027-Basic%20Image%20Editor)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day027-Basic%20Image%20Editor/Basic%20Image%20Editor.gif)
+
