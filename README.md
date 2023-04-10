@@ -91,3 +91,5 @@ Table of Content
 **[Day 27 - Basic Image Editor ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day027-Basic%20Image%20Editor)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day027-Basic%20Image%20Editor/Basic%20Image%20Editor.gif)
 
+**[Day 28 - Random Hex Code Generator ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day028%20-%20Random%20Hex%20Code%20Generator)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day028%20-%20Random%20Hex%20Code%20Generator/Random%20hex%20code%20generator.gif)
