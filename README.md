@@ -96,3 +96,6 @@ Table of Content
 
 **[Day 29 - Responsive CountDown ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day029%20-Responsive%20Coundown)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day029%20-Responsive%20Coundown/Responsive%20CountDown.gif)
+
+**[Day 30 - Live Word Counter ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day030-Live%20Word%20Counter)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day030-Live%20Word%20Counter/Live%20Word%20Counter.gif)
