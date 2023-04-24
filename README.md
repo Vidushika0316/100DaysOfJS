@@ -99,3 +99,6 @@ Table of Content
 
 **[Day 30 - Live Word Counter ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day030-Live%20Word%20Counter)**
 ![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day030-Live%20Word%20Counter/Live%20Word%20Counter.gif)
+
+**[Day 31 - Monster Maker ](https://github.com/Vidushika0316/100DaysOfJS/tree/main/Day031-Monster%20Maker)**
+![](https://github.com/Vidushika0316/100DaysOfJS/blob/main/Day031-Monster%20Maker/Monster%20Maker.gif)
